@@ -7,10 +7,16 @@ Go to release and download the .exe file if you are not familiar with python
 
 ## For source code 
 Download the source code and run
-```pip install ttkbootstrap pandas openpyxl colorlog tqdm```
+```
+pip install ttkbootstrap pandas openpyxl colorlog tqdm
+```
 
 Update ttkbootstrap to the latest version to avoid potential style issues:
-```pip install --upgrade ttkbootstrap```
+```
+pip install --upgrade ttkbootstrap
+```
 
 In Command Prompt, navigate to the directory and run:
-```python port_scanner_app.py```
+```
+python port_scanner_app.py
+```
